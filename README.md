@@ -9,3 +9,7 @@ Passo a passo para rodar a aplicação na sua máquina
 Informações:
 
 Utilize a versão 16.x do NodeJS e a versão 1.22.x do Yarn
+
+Para facilitar a visualização o projeto foi hospedado na Vercel.
+
+https://teste-merx.vercel.app/
